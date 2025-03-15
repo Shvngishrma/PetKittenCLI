@@ -38,8 +38,4 @@ This program allows you to have and take care of your very own pet cat over the 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
-<<<<<<< HEAD
 This project is licensed under the MIT License.
-=======
-This project is licensed under the MIT License.
->>>>>>> 9e576a473dd2aa9019a78d787c2eb16433190c60
